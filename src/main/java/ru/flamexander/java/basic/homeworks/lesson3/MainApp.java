@@ -10,7 +10,7 @@ public class MainApp {
     }
 
     public static void printIsNumberPositive(int number) {
-        if (number > 0) {
+        if (number >= 0) {
             System.out.println(number + " is positive");
         }
     }
