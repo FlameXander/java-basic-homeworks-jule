@@ -6,8 +6,9 @@ public class GreetingsApplication {
     }
 
     public static void abc() {
-        System.out.println("---");
-        System.out.println("- -");
-        System.out.println("---");
+        System.out.println("----");
+        System.out.println("-  -");
+        System.out.println("-  -");
+        System.out.println("----");
     }
 }
